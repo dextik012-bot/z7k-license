@@ -1,0 +1,8 @@
+name = "z7k-license"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "z7k-licenses"
+database_id = "ac6ef430-88dd-43d0-a44c-9157ebd1a5b0"
